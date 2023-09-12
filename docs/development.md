@@ -44,8 +44,3 @@ Provide here an historical record (for each sprint) of the four key metrics and 
 ## Restrospectives
 
 Describe (possibly as separate markdown files linked form this section) a written account of your retrospectives. There should be, for each sprint, one retrospective for the entire project, and one for each team.
-
-
-## Sprint Reviews
-
-Describe (possibly as separate markdown files linked form this section) a written account of the feedback collected from your customer in each Sprint Review. 
