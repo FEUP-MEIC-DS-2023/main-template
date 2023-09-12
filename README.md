@@ -12,7 +12,7 @@ Explain how to use your software from user standpoint. This can include short vi
 
 Explain what a new developer to the project should know in order to develop the system, including who to build, run and test it in a development environment. 
 
-More details about the technical vision can be found in the [development](docs/development.md) documentation, which includes information on architectural, design and technical aspects of the project, justifying the most important choices to show the soundness of the technical vision.
+Defer more details about the technical vision to the [development](docs/development.md) documentation, which should include information on architectural, design and technical aspects of the project, justifying the most important choices to show the soundness of the technical vision.
 
 
 ## How to run and operate in a production environment
