@@ -1,6 +1,6 @@
 {
     "default": false,
-    "headeing-style": {
+    "heading-style": {
         "style": "atx"
     },
     "ul-style": {
