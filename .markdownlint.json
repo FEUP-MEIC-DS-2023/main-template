@@ -5,16 +5,5 @@
     },
     "MD004": {
         "style": "asterisk"
-    },
-    "MD013": {
-        "code_blocks": false,
-        "tables": false
-    },
-    "MD033": {
-        "allowed_elements": [
-            "details",
-            "summary"
-        ]
-    },
-    "MD046": false
+    }
 }
