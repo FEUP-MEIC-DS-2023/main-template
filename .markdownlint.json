@@ -1,8 +1,9 @@
 {
-    "MD003": {
+    "default": false,
+    "headeing-style": {
         "style": "atx"
     },
-    "MD004": {
+    "ul-style": {
         "style": "asterisk"
     }
 }
