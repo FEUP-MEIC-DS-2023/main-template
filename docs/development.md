@@ -41,6 +41,6 @@ Describe how you captured each of the "four key metrics" (e.g., automatic mechan
 Provide here an historical record (for each sprint) of the four key metrics and velocity.
 
 
-## Restrospectives
+## Retrospectives
 
 Describe (possibly as separate markdown files linked form this section) a written account of your retrospectives. There should be, for each sprint, one retrospective for the entire project, and one for each team.
