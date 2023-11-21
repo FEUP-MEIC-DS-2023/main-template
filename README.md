@@ -15,7 +15,7 @@ Explain what a new developer to the project should know in order to develop the 
 Defer more details about the technical vision to the [development](docs/development.md) documentation, which should include information on architectural, design and technical aspects of the project, justifying the most important choices to show the soundness of the technical vision.
 
 
-## How to run and operate in a production environment
+## How to run and operate in a production environment 
 
 Explain how to package, deploy and run the system to a production (or production-like) environment. If needed, link to external resources or additional markdown files with further details (please place these in the [docs](docs/) directory).
 
