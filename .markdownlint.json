@@ -1,0 +1,9 @@
+{
+    "default": false,
+    "heading-style": {
+        "style": "atx"
+    },
+    "ul-style": {
+        "style": "asterisk"
+    }
+}
